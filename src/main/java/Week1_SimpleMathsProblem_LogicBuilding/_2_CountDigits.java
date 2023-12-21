@@ -1,6 +1,6 @@
 package Week1_SimpleMathsProblem_LogicBuilding;
 
-public class CountDigits {
+public class _2_CountDigits {
 
     /*
     ***Q***

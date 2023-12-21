@@ -10,7 +10,7 @@ package Week1_SimpleMathsProblem_LogicBuilding;
 
 *** Understand the logic how we are using the loop to find each digits
  */
-public class FindDigitsInNum {
+public class _1_FindDigitsInNum {
     static void findDigits(int num){
         int digits=0;
         while(num>0){

@@ -1,6 +1,6 @@
 package Week1_SimpleMathsProblem_LogicBuilding;
 
-public class SubtractProductSumOfDigits {
+public class _3_SubtractProductSumOfDigits {
 
     /*Q2*
     Given an integer number n,

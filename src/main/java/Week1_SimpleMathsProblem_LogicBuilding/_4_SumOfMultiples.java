@@ -1,6 +1,6 @@
 package Week1_SimpleMathsProblem_LogicBuilding;
 
-public class SumOfMultiples {
+public class _4_SumOfMultiples {
 
     public static int sumOfMultiples(int n) {
         // Your code goes here

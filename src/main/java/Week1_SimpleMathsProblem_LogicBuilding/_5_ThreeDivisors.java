@@ -1,6 +1,6 @@
 package Week1_SimpleMathsProblem_LogicBuilding;
 
-public class ThreeDivisors {
+public class _5_ThreeDivisors {
 
     /*
     **Q**
