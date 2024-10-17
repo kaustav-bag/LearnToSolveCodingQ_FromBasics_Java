@@ -7,7 +7,7 @@ public class Move_Zeroes_With_Order {
 
     //Swap Zeroes at the end
     public static void main(String[] args) {
-        int[] nums = {1, 0, 1, 0, 3, 3, 0, 1, 0, 23, 0, 5, 0, 0, 0, 50, 0, 23};
+        int[] nums = {1,2,0,3,0,0,0,3,0,2,0,0};
         System.out.println(Arrays.toString(swapZeroes(nums)));
     }
 
